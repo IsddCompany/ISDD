@@ -1,2 +1,2 @@
-import search
-import isddfile
+import isdd.search
+import isdd.isddfile
