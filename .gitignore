@@ -3,3 +3,5 @@ Scripts
 .idea
 test.py
 /isdd/__pycache__
+/ISDD.egg-info
+/dist
